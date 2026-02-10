@@ -1,0 +1,55 @@
+body {
+  background: #1e1e2f;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 40px;
+  position: relative;
+}
+
+#countdown {
+  font-size: 48px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 15px;
+}
+
+/* app colors */
+.safe { background: #2ecc71; }
+.warning { background: #f1c40f; }
+.danger { background: #e74c3c; }
+
+
+/* bell button */
+.bell {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 24px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.bell.on {
+  animation: ring 1s infinite;
+}
+
+@keyframes ring {
+  0% { transform: rotate(0); }
+  25% { transform: rotate(15deg); }
+  50% { transform: rotate(-15deg); }
+  75% { transform: rotate(10deg); }
+  100% { transform: rotate(0); }
+}
+
+
+/* sound test button */
+#soundTest {
+  position: absolute;
+  bottom: 10px;
+  left: 15px;
+  font-size: 22px;
+  cursor: pointer;
+}
