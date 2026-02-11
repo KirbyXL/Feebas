@@ -87,6 +87,10 @@ Once installed:
 
 <img width="518" height="383" alt="image" src="https://github.com/user-attachments/assets/0024bb23-7b95-4246-8ba9-b3d65acd821c" />
 
+<img width="518" height="387" alt="image" src="https://github.com/user-attachments/assets/9345c146-3c8a-4e1a-9561-b26caa48c6c7" />
+
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/eda48ecb-3208-47d1-99d2-93f760a86df5" />
+
 
 ---
 
