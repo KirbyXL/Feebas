@@ -24,7 +24,7 @@ In the game PokeMMO, the Feebas tiles reset on a **consistent global 45-minute c
 ## Installation
 
 ### From Releases
-Download the **latest Windows installer** from the **Releases** tab and run it to install the app.
+Download the **latest Windows installer** and run it to install the app.
 
 ### From Source
 
